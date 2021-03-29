@@ -23,8 +23,8 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" style="max-width:100%;">][telegram]
 <br/>
 <br/>
-- 🔭 I’m currently working on sefl development
-- 🌱 I’m currently learning DRF
+- 🔭 I’m currently working on self development
+- 🌱 I’m currently learning Django REST-Framework, Docker, Nginx
 - 🤔 I’m looking for more interesting and cool projects
 - 💬 Ask me about anything you want
 - 📫 How to reach me: abdulkodir.yusupov@gmail.com
