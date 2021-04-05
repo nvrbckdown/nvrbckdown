@@ -29,6 +29,6 @@
 - 💬 Ask me about anything you want
 - 📫 How to reach me: abdulkodir.yusupov@gmail.com
 - 😄 Steam nickname and ID: NvrbckDowN, 373256296 
-- ⚡ Fun fact: CSGO player with Silver IV rank!
+- ⚡ Fun fact: CSGO player with Silver Elite rank!
 
 ### Nice to see you here!!!
