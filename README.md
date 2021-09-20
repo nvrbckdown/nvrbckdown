@@ -1,6 +1,6 @@
 ### print('HelloWorld 👋👋👋')
 
-### I am Abdulkodir Yusupov and I am a Backend Developer @ Online Startup LLC
+### I am Abdulkodir Yusupov and I am a DevOps Engineer @ Udevs
 
 ### Languages and Tools
 
